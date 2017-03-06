@@ -1,0 +1,4 @@
+Dhruvins-MacBook-Air:Week5 dhruvinpatel$ python HW6.py
+Days between 2000-01-01 & 2016-10-03 : 6120
+Months between 2000-01-01 & 2016-10-03 : 201
+Years between 2000-01-01 & 2016-10-03 : 16
